@@ -1,0 +1,15 @@
+/home/frolov/Документы/Kontrolinaia_rabota/rabota_1/bin/Debug/net6.0/rabota_1
+/home/frolov/Документы/Kontrolinaia_rabota/rabota_1/bin/Debug/net6.0/rabota_1.deps.json
+/home/frolov/Документы/Kontrolinaia_rabota/rabota_1/bin/Debug/net6.0/rabota_1.runtimeconfig.json
+/home/frolov/Документы/Kontrolinaia_rabota/rabota_1/bin/Debug/net6.0/rabota_1.dll
+/home/frolov/Документы/Kontrolinaia_rabota/rabota_1/bin/Debug/net6.0/rabota_1.pdb
+/home/frolov/Документы/Kontrolinaia_rabota/rabota_1/obj/Debug/net6.0/rabota_1.csproj.AssemblyReference.cache
+/home/frolov/Документы/Kontrolinaia_rabota/rabota_1/obj/Debug/net6.0/rabota_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/frolov/Документы/Kontrolinaia_rabota/rabota_1/obj/Debug/net6.0/rabota_1.AssemblyInfoInputs.cache
+/home/frolov/Документы/Kontrolinaia_rabota/rabota_1/obj/Debug/net6.0/rabota_1.AssemblyInfo.cs
+/home/frolov/Документы/Kontrolinaia_rabota/rabota_1/obj/Debug/net6.0/rabota_1.csproj.CoreCompileInputs.cache
+/home/frolov/Документы/Kontrolinaia_rabota/rabota_1/obj/Debug/net6.0/rabota_1.dll
+/home/frolov/Документы/Kontrolinaia_rabota/rabota_1/obj/Debug/net6.0/refint/rabota_1.dll
+/home/frolov/Документы/Kontrolinaia_rabota/rabota_1/obj/Debug/net6.0/rabota_1.pdb
+/home/frolov/Документы/Kontrolinaia_rabota/rabota_1/obj/Debug/net6.0/rabota_1.genruntimeconfig.cache
+/home/frolov/Документы/Kontrolinaia_rabota/rabota_1/obj/Debug/net6.0/ref/rabota_1.dll
